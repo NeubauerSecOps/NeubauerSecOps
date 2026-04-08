@@ -1,17 +1,19 @@
-<h1>Hi, I'm Eduardo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/eduardo-neubauer-029210315/">Cybersecurity Professional</a>
+<h1>Hi, I'm Eduardo!
+  
+  <a href="https://www.linkedin.com/in/eduardo-neubauer-029210315/">Cybersecurity Professional</a>
 
 <h2>👨‍💻Cibersecurity Projects Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory](https://github.com/NeubauerSecOps/PowerShellLab)
 - <b>Linux (File Management)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [permission change](https://github.com/NeubauerSecOps/LinuxLab)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NeubauerSecOps/PythonLab)
 - <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Database query](https://github.com/NeubauerSecOps/SQLQueryLab)
+- <b>WireShark</b>
+  - [Network Analysis](https://github.com/NeubauerSecOps/WireSharkLab)
 
  <h2> Certifications</h2>
  
