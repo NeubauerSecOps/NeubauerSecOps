@@ -15,7 +15,7 @@
 - <b>WireShark</b>
   - [Network Analysis](https://github.com/NeubauerSecOps/WireSharkLab)
 - <b>SIEM Tools</b>
-  - [Splunk, Google SecOps and Wazuh tools](https://github.com/NeubauerSecOps/WireSharkLab)
+  - [Splunk, Google SecOps and Wazuh tools](https://github.com/NeubauerSecOps/SIEMToolsLab/tree/main)
 
  <h2> Certifications</h2>
  
