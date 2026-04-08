@@ -14,6 +14,8 @@
   - [Database query](https://github.com/NeubauerSecOps/SQLQueryLab)
 - <b>WireShark</b>
   - [Network Analysis](https://github.com/NeubauerSecOps/WireSharkLab)
+- <b>SIEM Tools</b>
+  - [Splunk, Google SecOps and Wazuh tools](https://github.com/NeubauerSecOps/WireSharkLab)
 
  <h2> Certifications</h2>
  
